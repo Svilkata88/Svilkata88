@@ -30,5 +30,5 @@
 
 <hr/>
 
-(https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )]
+(https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )
 
