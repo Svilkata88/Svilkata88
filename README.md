@@ -1,4 +1,4 @@
-<h1 align='center'>
+![Anurag's GitHub stats]<h1 align='center'>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&color=22A4F7&width=750&height=70&duration=6000&lines=Hi%2C+I%27am+Svilen+Ivanov.;Passioned+python+dev+from+Bulgaria!" alt="Typing SVG" />
   </a>
@@ -30,5 +30,5 @@
 
 <hr/>
 
-(https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )
 
