@@ -18,4 +18,16 @@
   </a>
 </div>
 
+<hr/>
+
+<h2 align='center'> 📱Languages, 📦 Frameworks & 🔧 Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,mysql,postgres,docker,html,css,py,django" />
+  </a>
+</p>
+
+<hr/>
+
 
