@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/svilen-ivanov-31921398/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/svilen.ivanov.794">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 
