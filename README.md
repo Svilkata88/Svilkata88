@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center">![Visitors](https://visitor-badge.glitch.me/badge?page_id=Svilkata88)</h2>
+<h3 align="center">![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Svilkata88)</h3>
 
 <br/>
 
