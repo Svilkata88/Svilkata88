@@ -5,7 +5,10 @@
   </a>
 </h1>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Svilkata88.visitor-badge&left_text=MyPageVisitors)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Svilkata88.visitor-badge&left_text=MyPageVisitors" alt="visitor badge" />
+</p>
+
 
 <br/>
 
