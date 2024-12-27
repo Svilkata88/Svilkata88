@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Svilkata88.visitor-badge&left_text=MyPageVisitors)</h3>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Svilkata88.visitor-badge&left_text=MyPageVisitors)
 
 <br/>
 
