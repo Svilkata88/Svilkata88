@@ -30,7 +30,7 @@
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )
+![Svilkata88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Svilkata88&layout=compact&theme=tokyonight)
 
 
