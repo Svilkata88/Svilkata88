@@ -4,5 +4,12 @@
   </a>
 </h1>
 
+<br/>
+
+<div>
+  <a href="mailto:ivanovsvilen88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badg&logo=gmail&logoColor=red"/>
+  </a>
+</div>
 
 
