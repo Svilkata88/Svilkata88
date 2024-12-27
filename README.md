@@ -5,6 +5,8 @@
   </a>
 </h1>
 
+<h2 align="center">![Visitors](https://visitor-badge.glitch.me/badge?page_id=Svilkata88)</h2>
+
 <br/>
 
 <div align='center'>
@@ -33,7 +35,7 @@
 
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=Svilkata88&theme=tokyonight&show_icons=true&cache_seconds=3600 )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Svilkata88&layout=compact&theme=tokyonight)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Svilkata88)
+
 
 
 
